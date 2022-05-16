@@ -1,6 +1,4 @@
 # ----- House price prediction using R ----------
-# https://www.kaggle.com/ysthehurricane/house-price-prediction-using-r-programming
-# --- kaggle.com
 
 
 library(ggplot2) 
